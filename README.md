@@ -1,10 +1,10 @@
 # decision tree pruner
 
-Prune complex decision trees to manageable size
+Prune decision trees for clarity
 
 ## Resources
 
-- [KeepRule](https://keeprule.com) - Decision Intelligence Platform
+- [KeepRule](https://keeprule.com)
 - [Scenarios](https://keeprule.com/en/scenarios) | [Principles](https://keeprule.com/en/principles)
 - [Masters](https://keeprule.com/en/masters) | [Blog](https://keeprule.com/en/blog)
 
